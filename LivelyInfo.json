@@ -1,0 +1,11 @@
+{
+    "AppVersion": "1.0.0",
+    "Title": "ReTab Wallpaper",
+    "Thumbnail": "screenshot.png",
+    "Desc": "ReTab on Chrome, brought over to your desktop wallpaper!",
+    "Author": "AFHStudio",
+    "Contact": "https://github.com/AFHStudio/retabwallpaper",
+    "Type": 1,
+    "FileName": "index.html",
+    "IsAbsolutePath": false
+}

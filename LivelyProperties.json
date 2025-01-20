@@ -1,0 +1,25 @@
+{
+    "username": {
+        "type": "textbox",
+        "value": "Set a name under Customize",
+        "text": "Name"
+    },
+    "city": {
+      "type": "textbox",
+      "value": "Dhaka",
+      "text": "City"
+    },
+    "backgroundpicture": {
+      "type": "folderDropdown",
+      "value": "defaultbackground.jpg",
+      "text": "Background Image",
+      "filter": "*.jpg|*.png",
+      "folder": "backgrounds"
+    },
+    "font": {
+      "type": "dropdown",
+      "value": 0,
+      "text": "Font",
+      "items": ["Inter", "Helvetica Neue", "Rubik", "Product Sans"]
+    }
+  }
